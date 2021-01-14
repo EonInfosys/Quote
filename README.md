@@ -12,3 +12,6 @@ Url: http://www.eonbazar.lan/rest/default/V1/carts/mine
 
 ![](doc/CustomerEmailToken.png)
 ![](doc/getCartsInfoImgUrl.png)
+
+
+Video: https://youtu.be/zJul-_Qya7s
